@@ -1,5 +1,8 @@
 return {
   {
+    "nvim-neotest/nvim-nio",
+  },
+  {
     "echasnovski/mini.move",
     lazy = false,
     version = false,
